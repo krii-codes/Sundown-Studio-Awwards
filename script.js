@@ -1,4 +1,6 @@
 const scroll = new LocomotiveScroll({
-    el: document.querySelector('#main'),
-    smooth: true
+  el: document.querySelector('#main'),
+  smooth: true
 });
+
+
